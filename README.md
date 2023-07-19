@@ -1,2 +1,2 @@
-# To-do-List-Flutter-App
-I created a to-do list app using Flutter
+# Academia-App
+I created a Trei.no app using Flutter
